@@ -1,3 +1,4 @@
+// 테스트를 위한 주석 추가
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
